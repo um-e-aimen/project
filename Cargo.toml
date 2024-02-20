@@ -1,0 +1,12 @@
+[package]
+name = "rust-inventory"
+description = "Inventory system written in rust."
+version = "0.0.0"
+authors = ["umeaimen <fa20-bse-025@cuiatk.edu.pk>"]
+
+repository = "https://github.com/umeaimen/rust-inventory"
+license = "ISC"
+
+exclude = ["target/"]
+
+[dependencies]
